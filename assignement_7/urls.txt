@@ -1,0 +1,6 @@
+studentid: a12142043
+correlator: https://wwwlab.cs.univie.ac.at/~alrubayem88/assignment7/correlator.php
+progress: https://wwwlab.cs.univie.ac.at/~alrubayem88/assignment7/manufacturer_service.php
+component_one: https://wwwlab.cs.univie.ac.at/~alrubayem88/assignment7/warehouse_service.php?action=get_quantity&category=Electronics&item=Camera
+component_two:https://wwwlab.cs.univie.ac.at/~alrubayem88/assignment7/warehouse_service.php?action=get_quantity&category=Clothing&item=Jacket
+component_three: https://wwwlab.cs.univie.ac.at/~alrubayem88/assignment7/warehouse_service.php?action=get_quantity&category=Books&item=Art
